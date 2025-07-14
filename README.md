@@ -1,22 +1,22 @@
-# Analyse Macroéconomique Fondamentale – Kénael Martini
+# Fundamental Macroeconomic Analysis – Kénael Martini
 
-## 📌 Objectif de ce Repository
-Ce repository regroupe l’ensemble de mon travail personnel et professionnel lié à l’**analyse macroéconomique fondamentale appliquée aux marchés des changes (Forex)**.  
-Il reflète le workflow que j’utilise au quotidien dans mon approche des marchés en tant que trader macro fondamental.  
-Il a pour but de démontrer non seulement mes compétences analytiques et techniques, mais aussi ma **discipline, mon organisation et ma méthodologie**.
+## 📌 Purpose of this Repository  
+This repository gathers all my personal and professional work related to **fundamental macroeconomic analysis applied to the Forex market**.  
+It reflects the **workflow I use daily in my approach to markets as a macro-focused trader**.  
+Its purpose is to demonstrate not only my analytical and technical skills but also my **discipline, organization, and methodology**.
 
 ---
 
-## 🧠 Qui suis-je ?
-Je suis un jeune trader indépendant, spécialisé dans l’**analyse fondamentale et macroéconomique des devises**, avec un focus particulier sur :
-- Les politiques monétaires des grandes banques centrales (FOMC, BCE, BoE, BoJ, etc.)
-- Les indicateurs macroéconomiques clés (CPI, Core CPI, PPI, PMI…)
-- L’analyse des flux monétaires, du sentiment de marché et des marchés obligataires
-- Les corrélations entre devises, taux d’intérêt et tendances macroéconomiques
-- L’étude du positionnement spéculatif et du sentiment global (CFTC, CME FedWatch)
+## 🧠 About Me  
+I am an independent young trader specializing in **fundamental and macroeconomic analysis of currencies**, with a particular focus on:  
+- Monetary policies of major central banks (FOMC, ECB, BoE, BoJ, etc.)  
+- Key macroeconomic indicators (CPI, Core CPI, PPI, PMI…)  
+- Analysis of money flows, market sentiment, and bond markets  
+- Correlations between currencies, interest rates, and macroeconomic trends  
+- Monitoring speculative positioning and global sentiment (CFTC, CME FedWatch)  
 
-Je développe également de **petits programmes en Python, adaptés à mes besoins, afin d’automatiser certaines tâches répétitives ou d’optimiser ma collecte et ma visualisation de données macroéconomiques.**
+I also develop **small custom Python programs tailored to my needs to automate repetitive tasks and optimize my data collection and visualization for macroeconomic analysis.**
 
-Mon objectif est de **combiner une expertise macroéconomique avancée avec des outils modernes** (Python, data scraping, dashboards) pour construire des frameworks de décision solides et efficaces.
+My goal is to **combine advanced macroeconomic expertise with modern tools** (Python, data scraping, dashboards) to build efficient and robust decision-making frameworks.
 
 ---
