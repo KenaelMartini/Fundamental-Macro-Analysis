@@ -13,14 +13,18 @@ This sudden appreciation of the JPY lacks fundamental backing and appears to be 
 
 ### ✅ Pre-data Hedging Behavior
 - With **high-risk macro events** scheduled for **Thursday (July 25)** — including:
-  - EUR/GBP/USD Flash PMIs
-  - ECB Rate Decision
+  - EUR/GBP/USD Flash PMIs  
+  - ECB Rate Decision  
   - US Jobless Claims  
 → Institutions are **reducing risk** and rotating into **safe-haven assets** like the JPY.
 
-### ✅ Classic Defensive Move
-- No new Japanese macroeconomic developments.
-- Investors are **pre-positioning for potential macro disappointments** in Europe and the US.
+### ❗ Contradiction: Market Is Risk ON
+
+Despite short-term risk-off flows into the yen, the **global sentiment is currently bullish**:
+
+> 📈 **Fear & Greed Index: 74** → clear signal of a **Risk ON** environment.
+
+This suggests that the JPY rally is **contrarian and fragile**, likely to reverse rapidly if macro data confirms resilience.
 
 ---
 
@@ -58,4 +62,5 @@ If **macro data beats expectations** on Thursday (PMIs, Claims, ECB tone):
 
 - USD/JPY has fallen ~1.7% without Japanese catalysts.
 - Move is driven by **pre-event hedging**, not fundamentals.
-- Post-data snapback is highly likely **if global data confirms strength**.
+- Broader sentiment is **Risk ON (FGI = 74)** → JPY rally is fragile.
+- **Post-data reversal is likely** if global data surprises to the upside.
