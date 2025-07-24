@@ -55,12 +55,7 @@
   - EUR macro strength confirmed by PMIs and Lagarde’s remarks
   - Lagarde cooled rate cut expectations (traders priced fewer cuts post-conference)
   - Defensive flows into JPY/CHF may unwind with reduced uncertainty
-
-### Confirmation:
-
-- Watch USD data at **14:30 CET** for confirmation of broader macro strength
-- If confirmed, EUR/JPY and EUR/CHF have room for **upside extension**
-
+ 
 ---
 
 ## 🔍 Summary
