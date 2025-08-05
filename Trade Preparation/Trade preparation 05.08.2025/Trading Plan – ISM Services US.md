@@ -53,3 +53,11 @@ Determine whether a **long position on USD/JPY** is justified based on the macro
 | Time | Data Released | USD Reaction | Action Taken | Notes |
 |------|----------------|--------------|---------------|-------|
 | 16:00 | ? | ? | ? | ? |
+
+---
+
+## 🧾 Post-Release Tracking:
+
+| Time | Data Released | USD Reaction | Action Taken | Notes |
+|------|----------------|--------------|---------------|-------|
+| 16:00 | ISM Services PMI = 50.1 (vs. 51.5 expected) | USD slightly bearish | ❌ No trade | Data below expectations but insufficient to reverse broader USD strength. No technical or macro alignment. Trade idea invalidated for today. Process respected. ✅ |
