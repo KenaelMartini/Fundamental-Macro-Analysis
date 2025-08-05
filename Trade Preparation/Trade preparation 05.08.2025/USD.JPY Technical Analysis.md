@@ -42,7 +42,7 @@ I now consider the price to have returned to:
 I believe that the current context is **better suited for considering USD/JPY longs** — provided that:
 
 - The **price action** confirms a constructive structure (e.g., base, breakout, volume),
-- Upcoming **macroeconomic releases** (notably the ISM Manufacturing report at 4 PM today) support renewed USD strength.
+- Upcoming **macroeconomic releases** (notably the ISM Service report at 4 PM today) support renewed USD strength.
 
 ---
 
