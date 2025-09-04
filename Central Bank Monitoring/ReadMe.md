@@ -1,56 +1,57 @@
 # Central Bank Monitoring (CBM)
 
-**Central Bank Monitoring (CBM)** est une application desktop développée en **Python/Tkinter** destinée à suivre en temps réel :  
+**Central Bank Monitoring (CBM)** is a **Python/Tkinter desktop application** designed to monitor in real time:  
 
-- Les communications et publications des **banques centrales** (Fed, BoE, ECB, BoJ, BoC, RBA, RBNZ, SNB).  
-- Le **calendrier macroéconomique** (TradingEconomics, avec fallback HTML en cas de restriction API).  
-- Une **analyse automatique** des publications (classification, labelling, biais hawkish/dovish).  
-
----
-
-## 🎯 Objectif
-
-CBM vise à fournir un outil robuste permettant de :  
-- Suivre la politique monétaire en temps réel (banques centrales G10).  
-- Anticiper les mouvements de marché via l’intégration directe du calendrier économique.  
-- Centraliser et historiser les événements clés (JSONL, CSV, export).  
-- Proposer un affichage simple et rapide, adapté à un environnement de **trading desk**.  
+- **Central banks** communications and releases (Fed, BoE, ECB, BoJ, BoC, RBA, RBNZ, SNB).  
+- The **macroeconomic calendar** (TradingEconomics, with HTML fallback in case of API restrictions).  
+- **Automated analysis** of publications (classification, labeling, hawkish/dovish bias).  
 
 ---
 
-## ✨ Fonctionnalités principales
+## 🎯 Purpose
+
+CBM aims to provide a robust tool to:  
+- Track monetary policy decisions in real time (G10 central banks).  
+- Anticipate market moves via direct integration of the economic calendar.  
+- Centralize and archive key events (JSONL, CSV, export).  
+- Offer a simple and fast UI suitable for a **trading desk environment**.  
+
+---
+
+## ✨ Key Features
 
 - **Dashboard**
-  - Heartbeats en temps réel (25 ms pour les banques centrales, ~800 ms pour TE).  
-  - Monitoring permanent de la latence et de l’état des watchers.  
+  - Real-time heartbeats (25 ms for central banks, ~800 ms for TE).  
+  - Continuous monitoring of latency and watcher status.  
 
 - **News**
-  - Flux en direct des publications macro (CPI, GDP, PMI, Unemployment, JOLTS, NFP, Retail Sales, etc.).  
-  - Catégorisation automatique : Inflation, Growth, Labor Market, PMI, Retail.  
-  - Mapping complet : country, currency, event, actual, consensus, previous, importance.  
-  - Analyse instantanée (labels + impact potentiel).  
+  - Live feed of macro publications (CPI, GDP, PMI, Unemployment, JOLTS, NFP, Retail Sales, etc.).  
+  - Automatic categorization: Inflation, Growth, Labor Market, PMI, Retail.  
+  - Complete mapping: country, currency, event, actual, consensus, previous, importance.  
+  - Instant analysis (labels + potential impact).  
 
-- **Data / Historique / Logs**
-  - Archivage systématique en JSONL.  
-  - Recherche, filtres, export CSV/JSON pour exploitation externe.  
+- **Data / History / Logs**
+  - Automatic archival in JSONL.  
+  - Search, filters, CSV/JSON export for external usage.  
 
-- **UI Tkinter**
-  - Onglets : Dashboard, News, Data, Historique, Logs.  
-  - Commandes : Start/Stop/Restart des watchers, Nettoyage, Export.  
+- **UI (Tkinter)**
+  - Tabs: Dashboard, News, Data, History, Logs.  
+  - Controls: Start/Stop/Restart watchers, Clear, Export.  
 
 ---
 
-## 🧑‍💻 Développement
+## 🧑‍💻 Development
 
-Le projet a été conçu comme un **outil de desk** :  
-- Structure modulaire (watchers indépendants + interface unifiée).  
-- Robustesse : fallback HTML si l’API est bloquée, gestion d’erreurs, cache local.  
-- Extensibilité : ajout progressif de nouvelles banques centrales et nouvelles catégories d’événements macro.  
+The project has been designed as a **desk-grade tool**:  
+- Modular structure (independent watchers + unified interface).  
+- Robustness: HTML fallback if the API is blocked, error handling, local caching.  
+- Extensibility: progressive addition of new central banks and macro categories.  
+- **Documentation**: almost all the code is annotated to ease readability, understanding, and further development.  
 
-### Utilisation de l’IA
-Dans la phase de développement, j’ai utilisé l’IA :  
-- Comme **support de relecture et de vérification** du code.  
-- Pour accélérer l’exploration de solutions techniques (threading, parsing HTML, UI Tkinter).  
-- Comme **outil d’apprentissage** sur certaines parties spécifiques.  
+### Use of AI
+During development, AI was used as:  
+- A **review and verification assistant** for code.  
+- A way to accelerate exploration of technical solutions (threading, HTML parsing, Tkinter UI).  
+- A **learning tool** for specific technical parts.  
 
-L’IA a servi de **catalyseur pédagogique**, mais l’architecture, les choix et l’implémentation finale restent le fruit d’un travail personnel.  
+AI served as a **pedagogical catalyst**, but the architecture, decisions, and final implementation remain the result of personal work.  
