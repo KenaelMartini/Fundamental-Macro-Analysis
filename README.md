@@ -20,3 +20,5 @@ I also develop **small custom Python programs tailored to my needs to automate r
 My goal is to **combine advanced macroeconomic expertise with modern tools** (Python, data scraping, dashboards) to build efficient and robust decision-making frameworks.
 
 ---
+
+Part of my macro analysis framework. See also: [Overnight-Checks](https://github.com/KenaelMartini/Overnight-Checks/tree/main).
