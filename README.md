@@ -22,3 +22,6 @@ My goal is to **combine advanced macroeconomic expertise with modern tools** (Py
 ---
 
 Part of my macro analysis framework. See also: [Overnight-Checks](https://github.com/KenaelMartini/Overnight-Checks/tree/main).
+
+> Note: Current focus is on foundational learning (Python applied to finance). 
+> Macro reports and weekly notes are temporarily paused to strengthen the technical base.
