@@ -42,9 +42,11 @@ The repository may include work based on:
 
 See also [Overnight Checks](https://github.com/KenaelMartini/Overnight-Checks), a complementary project focused on organising overnight market and macroeconomic information.
 
-## Current status
+## Repository status
 
-The repository is under active development. Current priorities are improving the quality of the research process, strengthening the technical foundation and making the documentation more consistent and reproducible.
+This repository is no longer actively maintained. It is kept public as an archive of earlier macroeconomic research, working methods and project development.
+
+Some analyses, data references or technical approaches may therefore be outdated and should be interpreted in the context in which they were produced.
 
 ## Disclaimer
 
