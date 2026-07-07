@@ -38,10 +38,6 @@ The repository may include work based on:
 - financial-market data;
 - Python tools for data collection, processing and visualisation.
 
-## Related project
-
-See also [Overnight Checks](https://github.com/KenaelMartini/Overnight-Checks), a complementary project focused on organising overnight market and macroeconomic information.
-
 ## Repository status
 
 This repository is no longer actively maintained. It is kept public as an archive of earlier macroeconomic research, working methods and project development.
