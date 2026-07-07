@@ -1,27 +1,53 @@
-# Fundamental Macroeconomic Analysis – Kénael Martini
+# Fundamental Macro Research
 
-## 📌 Purpose of this Repository  
-This repository gathers all my personal and professional work related to **fundamental macroeconomic analysis applied to the Forex market**.  
-It reflects the **workflow I use daily in my approach to markets as a macro-focused trader**.  
-Its purpose is to demonstrate not only my analytical and technical skills but also my **discipline, organization, and methodology**.
+Independent research repository focused on macroeconomic analysis applied to FX and global financial markets.
 
----
+The purpose of this repository is to document a structured research process around monetary policy, economic data, market positioning and cross-asset relationships. It also serves as a record of the frameworks, notes and tools developed while improving my macroeconomic and programming skills.
 
-## 🧠 About Me  
-I am an independent young trader specializing in **fundamental and macroeconomic analysis of currencies**, with a particular focus on:  
-- Monetary policies of major central banks (FOMC, ECB, BoE, BoJ, etc.)  
-- Key macroeconomic indicators (CPI, Core CPI, PPI, PMI…)  
-- Analysis of money flows, market sentiment, and bond markets  
-- Correlations between currencies, interest rates, and macroeconomic trends  
-- Monitoring speculative positioning and global sentiment (CFTC, CME FedWatch)  
+## Research scope
 
-I also develop **small custom Python programs tailored to my needs to automate repetitive tasks and optimize my data collection and visualization for macroeconomic analysis.**
+The work collected here focuses primarily on:
 
-My goal is to **combine advanced macroeconomic expertise with modern tools** (Python, data scraping, dashboards) to build efficient and robust decision-making frameworks.
+- monetary policy and central-bank communication;
+- inflation, labour-market and growth indicators;
+- interest-rate expectations and bond-market dynamics;
+- foreign-exchange markets;
+- speculative positioning and market sentiment;
+- relationships between currencies, yields and broader macroeconomic trends.
 
----
+## Research approach
 
-Part of my macro analysis framework. See also: [Overnight-Checks](https://github.com/KenaelMartini/Overnight-Checks/tree/main).
+The analysis follows a structured process built around:
 
-> Note: Current focus is on foundational learning (Python applied to finance). 
-> Macro reports and weekly notes are temporarily paused to strengthen the technical base.
+1. identifying the main macroeconomic drivers;
+2. tracking relevant central-bank decisions and economic releases;
+3. comparing market expectations with realised data;
+4. studying changes in rates, positioning and sentiment;
+5. documenting conclusions, uncertainties and alternative scenarios.
+
+The objective is not to predict markets with certainty, but to build disciplined and testable research frameworks.
+
+## Tools and data
+
+The repository may include work based on:
+
+- official central-bank publications;
+- public macroeconomic data;
+- CFTC positioning data;
+- interest-rate expectations;
+- financial-market data;
+- Python tools for data collection, processing and visualisation.
+
+## Related project
+
+See also [Overnight Checks](https://github.com/KenaelMartini/Overnight-Checks), a complementary project focused on organising overnight market and macroeconomic information.
+
+## Current status
+
+The repository is under active development. Current priorities are improving the quality of the research process, strengthening the technical foundation and making the documentation more consistent and reproducible.
+
+## Disclaimer
+
+This repository is developed for independent research and educational purposes only.
+
+Nothing published here constitutes financial advice, an investment recommendation, portfolio management or a regulated financial service.
